@@ -54,6 +54,12 @@
     "dial_code": "+81"
   },
   {
+    "name": "Nepal",
+    "flag": "🇳🇵",
+    "code": "NP",
+    "dial_code": "+977"
+  },
+  {
     "name": "Netherlands",
     "flag": "🇳🇱",
     "code": "NL",
@@ -82,6 +88,12 @@
     "flag": "🇪🇸",
     "code": "ES",
     "dial_code": "+34"
+  },
+  {
+    "name": "Sri Lanka",
+    "flag": "🇱🇰",
+    "code": "LK",
+    "dial_code": "+94"
   },
   {
     "name": "Switzerland",
