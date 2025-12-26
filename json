@@ -18,18 +18,6 @@
     "dial_code": "+1"
   },
   {
-    "name": "China",
-    "flag": "🇨🇳",
-    "code": "CN",
-    "dial_code": "+86"
-  },
-  {
-    "name": "France",
-    "flag": "🇫🇷",
-    "code": "FR",
-    "dial_code": "+33"
-  },
-  {
     "name": "Germany",
     "flag": "🇩🇪",
     "code": "DE",
@@ -54,18 +42,6 @@
     "dial_code": "+81"
   },
   {
-    "name": "Nepal",
-    "flag": "🇳🇵",
-    "code": "NP",
-    "dial_code": "+977"
-  },
-  {
-    "name": "Netherlands",
-    "flag": "🇳🇱",
-    "code": "NL",
-    "dial_code": "+31"
-  },
-  {
     "name": "Russia",
     "flag": "🇷🇺",
     "code": "RU",
@@ -82,24 +58,6 @@
     "flag": "🇰🇷",
     "code": "KR",
     "dial_code": "+82"
-  },
-  {
-    "name": "Spain",
-    "flag": "🇪🇸",
-    "code": "ES",
-    "dial_code": "+34"
-  },
-  {
-    "name": "Sri Lanka",
-    "flag": "🇱🇰",
-    "code": "LK",
-    "dial_code": "+94"
-  },
-  {
-    "name": "Switzerland",
-    "flag": "🇨🇭",
-    "code": "CH",
-    "dial_code": "+41"
   },
   {
     "name": "Thailand",
