@@ -1,23 +1,5 @@
 [
   {
-    "name": "Australia",
-    "flag": "🇦🇺",
-    "code": "AU",
-    "dial_code": "+61"
-  },
-  {
-    "name": "Brazil",
-    "flag": "🇧🇷",
-    "code": "BR",
-    "dial_code": "+55"
-  },
-  {
-    "name": "Canada",
-    "flag": "🇨🇦",
-    "code": "CA",
-    "dial_code": "+1"
-  },
-  {
     "name": "Germany",
     "flag": "🇩🇪",
     "code": "DE",
@@ -52,12 +34,6 @@
     "flag": "🇸🇬",
     "code": "SG",
     "dial_code": "+65"
-  },
-  {
-    "name": "South Korea",
-    "flag": "🇰🇷",
-    "code": "KR",
-    "dial_code": "+82"
   },
   {
     "name": "Thailand",
